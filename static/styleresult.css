@@ -1,0 +1,55 @@
+body{
+    color:rgb(245, 9, 9);
+    margin-bottom: 10%;
+    margin-top: 5%;
+    background-image: url("https://d2syaugtnopsqd.cloudfront.net/wp-content/uploads/sites/32/2024/04/25212556/iStock-480652712.jpg")
+}
+
+.navbar{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    padding-left: 30px;
+}
+.navbar-brand{
+    font-size: 23px;
+    color: mediumblue;
+}
+
+a{
+    font-size: 20px;
+    color: black;
+}
+.container{
+    background-color:aliceblue;
+    opacity: 0.8;
+    padding: 20px;
+    border: 15px orangered solid; 
+    font-family: 'Times New Roman', Times, serif;
+    
+   
+    
+}
+@media (min-width: 1200px) {
+    .container{
+        border-radius: 10px;
+        width: 45%;
+        margin: auto;
+    }
+}
+
+p{
+    font-size: 23px;
+}
+
+h1{
+    text-decoration: underline dashed;
+    letter-spacing: 1px;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+
+

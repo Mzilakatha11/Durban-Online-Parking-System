@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("https://img.freepik.com/premium-photo/deploying-automated-parking-management-systems-ar-generative-ai_1198270-111340.jpg?size=626&ext=jpg&ga=GA1.1.1398876416.1726178057&semt=ais_hybrid");
+}
+
+.container{
+    font-size: 20px;
+}
+
+
+@media (min-width: 1200px) {
+    .container{
+        border-radius: 10px;
+        width: 100%;
+        margin: auto;
+        margin-bottom: 10%;
+    }
+}
+
+h1{
+   color: cyan;
+   margin-top: 2%;
+   margin-left: 1%;
+   padding: 12px;
+   letter-spacing: 1px;
+   font-size: 60px;
+   text-shadow: 3px 3px 3px #ababab;
+}
+

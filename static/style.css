@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color:floralwhite;
+    background-image: url("https://d2syaugtnopsqd.cloudfront.net/wp-content/uploads/sites/32/2024/04/25212556/iStock-480652712.jpg")
+}
+
+.navbar-brand{
+    color:mediumblue;
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+.navbar-right{
+    width: 50px;
+    margin-right: 40px;
+}
+
+
+.history{
+    text-align: right;
+    background-color: rgba(10, 16, 21,0.7);
+    padding: 25px;
+    font-size: 30px;
+}
+.history a{
+    color: rgb(163, 236, 15);
+}
+
+
+input:hover{
+    background-color:aqua;
+}
+
+input{
+    border-radius: 20px;
+    border-color: orangered;
+    width: 100px;
+
+}
+
+.container{
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 5px;
+}
+@media (min-width: 1200px) {
+    .container{
+        width: 90%;
+        margin:auto
+    }
+}
+
+
